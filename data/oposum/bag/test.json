@@ -1,0 +1,656 @@
+[
+  {
+    "reviews": [
+      {
+        "rating": -1, 
+        "sentences": [
+          "it was very small and tight .", 
+          "i really did not like it .", 
+          "the pink flowers look really fake and cheap .", 
+          "i have a case on my 13 inch macbook and its very hard to close it ."
+        ]
+      }, 
+      {
+        "rating": -1, 
+        "sentences": [
+          "when i got this case i got it because it said it would fit a 13-14 inch notebook laptop computer .", 
+          "i have a 14 inch and it does not fit .", 
+          "i can not zip it shut .", 
+          "otherwise the sleeve looks nice , is pretty and seems to be in good condition but i gave it 2 stars because i was misled into purchasing this item and it does n't even fit my laptop ."
+        ]
+      }, 
+      {
+        "rating": -1, 
+        "sentences": [
+          "when i received the carrying case i thought it was very cute .", 
+          "it looks exactly as it appears in the picture .", 
+          "if you like bright pink then you 'll love this !", 
+          "it sorta looks like a sticker with japanese design to it .", 
+          "i have to get use to the bright pink ... it looks like it cheapens the look in a way .", 
+          "but i did receive some compliments about the bag - the japanese design is an eye catcher with the bright pink .", 
+          "i purchased the package deal ( $ 67 which is a good deal compared to the one item for $ 50 you get from the apple store ) ... the carrying side bag , case sleeve , pink rubber keyboard cover ( which i love !", 
+          "it 's a purple pink not too bright ) ."
+        ]
+      }, 
+      {
+        "rating": -1, 
+        "sentences": [
+          "we have a macbook air and a pro , both 13 `` , and we bought two of this sleeve .", 
+          "fits very well , especially for the pro , looks pretty , and very light weight .", 
+          "one zipper is n't as smooth when it meets the corner , but that 's not a problem if handled with care ."
+        ]
+      }, 
+      {
+        "rating": -1, 
+        "sentences": [
+          "i love my pink floral carrying case for my mac book .", 
+          "it fits perfectly and provides padding for travel .", 
+          "it 's also stylish , and matches my pink plastic cover for the laptop .", 
+          "it fits nicely into a backpack without a lot of bulk ."
+        ]
+      }, 
+      {
+        "rating": -1, 
+        "sentences": [
+          "i swapped my mac for a smaller dell laptop xps , so i needed a smaller case/sleeve .", 
+          "the design on the site looked cute .", 
+          "however , it turned out about the same size as my higher end marc jacobs sleeve ( which i love , but did n't need all the space ) and the quality of this case is terrible , like made in china , bought in chinatown terrible .", 
+          "i suppose you get what you pay for : ("
+        ]
+      }, 
+      {
+        "rating": -1, 
+        "sentences": [
+          "it 's pretty in the picture , but i do n't care for it much in person .", 
+          "it 's poor quality and i do n't trust my laptop to be protected in it .", 
+          "a few months after i bought this i found an amazing brand name laptop case for half this price .", 
+          "too bad it 's too late to return this one , but i guess i 'll just keep it in my closet ."
+        ]
+      }, 
+      {
+        "rating": -1, 
+        "sentences": [
+          "it 's really good looking and i feel like it protects my laptop well but sometimes the zipper gets stuck .", 
+          "i have really push my macbook in .", 
+          "i have a speck hard cover on my laptop , which may be the reason why , but i saw some other reviews with the same issue .", 
+          "it does fit with a case on it though , you just have to make sure it 's really in there ."
+        ]
+      }, 
+      {
+        "rating": -1, 
+        "sentences": [
+          "if all you need to do is protect your macbook , this stylish bag is well-constructed and just the thing .", 
+          "wish it had an outer pocket to carry the power cord ."
+        ]
+      }, 
+      {
+        "rating": -1, 
+        "sentences": [
+          "i purchased this case for my wife for her new mbair and she loves it !", 
+          "the case arrived promptly , it is the correct size , and works as advertised .", 
+          "as i have never purchased a laptop case before , i was a bit surprised how thin it was .", 
+          "it does n't add much bulk to the super-thin mbair and yet provides enough protection during normal use .", 
+          "it fits very nicely in my wife 's purse and looks great !"
+        ]
+      }
+    ], 
+    "summaries": {
+      "quality": [
+        "the quality of the materials of this case is really poor . the main problem is the zipper that get stuck and makes it hard to manage .", 
+        "this case is made from really poor quality materials . the zipper does n't work properly . it gets stuck on the corner and makes it hard to open or close the bag .", 
+        "it is not made from good queality materials . sometimes the zipper gets stuck in the corner of the case and it 's hard to open or close it ."
+      ], 
+      "looks": [
+        "it 's a really good looking and thin bag . it looks just like the picture . it 's also stylish but the bright color makes it look cheaper than it is .", 
+        "this bag is really greatly constructed for the looks . it is just like the picture , and is a very good looking bag . the only negative thing is that the brigth colors makes it look cheap .", 
+        "it 's a great looking bag , pretty and it looks just like the pictures . it is a realy stylish bag and the colors make it look cute but sometimes the bright pink makes it look cheap ."
+      ], 
+      "fit": [
+        "this cases does n't fit a 14 inch device . for a 13 inch it is ok , it may be a little tight but it does the job . without too much bulk it can be carried anywhere .", 
+        "it fits perfectly but not for a 14 inch device . for a 13 inch it works great and also fits perfect inside a purse without making a bulk .", 
+        "this bag barely fits for a 13 inch laptop and it 's hard to close . it is n't good for a 14 inches laptop . make sure to know the device size ."
+      ], 
+      "general": [
+        "like it protects my laptop well this stylish bag is well-constructed and just the thing . fits very well , especially for the pro , looks pretty , and very light weight . and yet provides enough protection during normal use . it was very small and tight . the pink flowers look really fake and cheap . it 's poor quality and i do n't trust my laptop to be protected in it . one zipper is n't as smooth", 
+        "fits very well , especially for the pro , looks pretty , and very light weight . the pink flowers look really fake and cheap . it 's poor quality i have a 14 inch and it does not fit .", 
+        "it 's really good looking like it protects my laptop well it is the correct size , and works as advertised . it fits perfectly it was very small and tight . the pink flowers look really fake and cheap . it 's poor quality i have a 14 inch and it does not fit . but sometimes the zipper gets stuck . wish it had an outer pocket"
+      ]
+    }
+  }, 
+  {
+    "reviews": [
+      {
+        "rating": -1, 
+        "sentences": [
+          "this case is awful .", 
+          "the bottom has no way of staying on .", 
+          "its ridiculous ... the styrofoam feet are going to fall off instantly .", 
+          "the material it is made of seems like it would make a good case , but i really do n't understand why there is no way the make the bottom part `` snap `` on .", 
+          "extremely disappointed ..."
+        ]
+      }, 
+      {
+        "rating": -1, 
+        "sentences": [
+          "this case looks and feels great , but is not too good for protection .", 
+          "my laptop usually just sits on my desk , which is great for this case , but the first time i decided to take my laptop with me , and placed it in a sleeve inside my backpack , the case developed cracks all over and part of it chipped off .", 
+          "but at 1/4 the price of the speck cases that i also have , i guess you get what you pay for .", 
+          "update : after less than six months , all of the rubber feet fell off and the bottom piece cracked to the point that it no longer would stay on .", 
+          "went back to a speck case about a month ago and could n't be happier ."
+        ]
+      }, 
+      {
+        "rating": -1, 
+        "sentences": [
+          "it 's a nice color and has effectively protected my macbook .", 
+          "however , i 've been trying to remove it to clean my computer and it 's really difficult for it to come off .", 
+          "i was only able to remove the bottom .", 
+          "heads up !"
+        ]
+      }, 
+      {
+        "rating": -1, 
+        "sentences": [
+          "this case is a gorgeous , bright green color .", 
+          "it 's not the most well made , and the last time i bought it it developed a few cracks after a month or two of use .", 
+          "there were a couple sharp areas of plastic i had to file down .", 
+          "however , i bought the case again when my old one wore out ( about 7 months after i bought it ) because it 's cheap and does what i want it to for the price .", 
+          "plus , a lot of the more expensive cases are n't as bright as this one ."
+        ]
+      }, 
+      {
+        "rating": -1, 
+        "sentences": [
+          "i am fussy about everything .", 
+          "i love this cover .", 
+          "it clips on easily , the color is gorgeous tiffany blue/green , it has a nice satin outer and hard inner side .", 
+          "the apple lite shows through if that is a concern for you .", 
+          "i got this from topcase in record time .", 
+          "it arrived two days after i ordered it and was in excellent condition ."
+        ]
+      }, 
+      {
+        "rating": -1, 
+        "sentences": [
+          "the color was great -- as expected , the fit was not .", 
+          "the case did not line up with the ports and it did not clip into place -- not even with persuasion !", 
+          "i would not recommend this product ."
+        ]
+      }, 
+      {
+        "rating": -1, 
+        "sentences": [
+          "i like the case overall and i really like the color , but what made me only give it 2 stars was the rubber bottoms .", 
+          "they were a cheap white material and got messy .", 
+          "i tried pulling them off to put my own on at it was kind of hard to do ."
+        ]
+      }, 
+      {
+        "rating": -1, 
+        "sentences": [
+          "color is awesome !", 
+          "top cover fit perfect .", 
+          "bottom was a great fit on the back but failed to latch on at the front .", 
+          "the keyboard cover was great but after having it a few months the cover is not sealing anymore .", 
+          "the corners on the top and bottom are beginning to crack .", 
+          "the computer does not move all that much so i ca n't think of a reason why it would begin to crack ."
+        ]
+      }, 
+      {
+        "rating": -1, 
+        "sentences": [
+          "being paranoid about scratching or spilling something on my computer , i decided to buy a hard case .", 
+          "i love the color and it was really easy to put on .", 
+          "the only concern that i really had was that since i now had the case on my computer would still fit into the sleeve that i had bought to carry it around in , and yes it still does even though it is a little snug .", 
+          "the only reason why it did n't get five stars is because the case came with a couple of scratches , but that was not a problem for me ."
+        ]
+      }, 
+      {
+        "rating": -1, 
+        "sentences": [
+          "so , i was very skeptical about a case in general .", 
+          "i wanted lime green , and this is actually lime green ... it feels nice and rubbery ( not yucky plastic like some covers ) .", 
+          "not recommended for greasy fingers , but i do it anyways and there are n't that many marks .", 
+          "it 's a perfect fit ( i 'm just bad at taking off the top ; though i have taken it off multiple times . )", 
+          "you can see the apple logo , and it does n't scratch your computer .", 
+          "it does n't add too much bulk , but it 's definitely adds a little more weight"
+        ]
+      }
+    ], 
+    "summaries": {
+      "quality": [
+        "the quality of this case is n't the best . the rubber bottoms are from cheap material and the case started to crack very quickly .", 
+        "it shows that the rubber is of low quality and leather began to crack . it is also very delicate and scratches easily .", 
+        "the quality is n't the best . it cracks and it is made of poor quality materials ."
+      ], 
+      "looks": [
+        "the color of the case is very nice , very bright and beautiful . the best thing is that it does n't scratch the computer and it does n't add too much bulk .", 
+        "the color is beautiful . i love both inside and outside .", 
+        "the colors are beautiful . it makes it look expensive , and it does n't scratch my laptop ."
+      ], 
+      "fit": [
+        "the fit for this case is just ok. it is really easy to put on but it does n't line up with the ports and it did n't clip into place .", 
+        "it has a good size . it fits perfectly . i love this bag .", 
+        "it fits ok at the top but at the botton it fails to clip and pull off . you have to make an effor to make it clip ."
+      ], 
+      "general": [
+        "the color was great -- and has effectively protected my macbook . because it 's cheap it clips on easily , the fit was not . but is not too good for protection . it 's not the most well made , and the last time", 
+        "color is awesome ! top cover fit perfect . and has effectively protected my macbook . it feels nice and rubbery it 's a perfect fit it clips on easily , it has a nice satin outer and hard inner side . the apple lite shows through and was in excellent condition . the fit was not . and it did not clip into place -- the bottom has no way of staying on . but is not too good for protection . developed cracks all over and part of it chipped off . the cover is not sealing anymore .", 
+        "this case looks and feels great , top cover fit perfect . and has effectively protected my macbook . the case did not line up with the ports the styrofoam feet are going to fall off instantly . but is not too good for protection . the keyboard cover was great but after having it a few months the cover is not sealing anymore ."
+      ]
+    }
+  }, 
+  {
+    "reviews": [
+      {
+        "rating": -1, 
+        "sentences": [
+          "this bag might look nice , but it is of terrible quality .", 
+          "the strap broke after only 3 months , and even though they kindly replaced it for me , less than 2 months later the new strap could n't even click onto the bag because the black piece that holds the hook completely ripped off .", 
+          "after emailing them several times , they still would n't refund me because they claimed that their warranty lasts only 1 month .", 
+          "who wants a laptop case that 's only guaranteed to last one month ?", 
+          "this case is such a waste of money , it would be much more worth it to spend a little more to get a case that lasts ."
+        ]
+      }, 
+      {
+        "rating": -1, 
+        "sentences": [
+          "very fast shipping .", 
+          "materials are cheap , stitches along the borders are not very secure .", 
+          "barely fit a 14 inch hp sleek notebook .", 
+          "does not worth 25 $ .", 
+          "rather spend 5 more dollars and get a better quality bag than this trash .", 
+          "it doesnt even look as sophisticate as shown in picture ; it look like my 2 years old sister 's bag ."
+        ]
+      }, 
+      {
+        "rating": -1, 
+        "sentences": [
+          "this bag does not fit my laptop .", 
+          "the pocket inside for the laptop would fit a tablet best .", 
+          "i have a 15 inch screen and it 's the only thing i can fit in the bag .", 
+          "the bag is lovely and true to the pic , but make sure you know your computer size first before you get caught up in how cute the bag looks like i did lol"
+        ]
+      }, 
+      {
+        "rating": -1, 
+        "sentences": [
+          "i purchased this for work , as my other one didnt allow much room to keep paper work or folders in it with the laptop .", 
+          "however , i wish they had an outer extended compartment for my power plug .", 
+          "with the laptop , and a few folders , the bag looks and closes nice .", 
+          "if i try to put the power cord in as well , the bag looks bulky and doesnt close right .", 
+          "for now i have the power cord in the little red bag that comes with it , but i carry it seperate .", 
+          "id recommend this to anyone who doesnt plan on carrying much else than their laptop , some pens and a notebook , which the cord will fit in the other side no problem .", 
+          "this would be more of a personal laptop bag"
+        ]
+      }, 
+      {
+        "rating": -1, 
+        "sentences": [
+          "the price was good , and it fits my 14 inch toshiba perfectly .", 
+          "it looks good and holds the cords , my mouse and a mouse pad .", 
+          "it is lightweight .", 
+          "it does come with a shoulder strap .", 
+          "i picked this bag because it had cushioning on the inside for extra protection .", 
+          "the only thing i would have liked is an outside pocket .", 
+          "but that is minor .", 
+          "love the color ."
+        ]
+      }, 
+      {
+        "rating": -1, 
+        "sentences": [
+          "poor quality .", 
+          "the `` quilted `` pattern had large creases and wrinkles .", 
+          "the handles felt cheap and the white part on the bottom had black marks on it .", 
+          "then there was the overpowering chemical smell that was nauseating .", 
+          "it was a mix of chemical and mothballs .", 
+          "i would have returned this bag simply because of the smell but the fact it was in poor condition was really annoying .", 
+          "i would not recommend this bag ."
+        ]
+      }, 
+      {
+        "rating": -1, 
+        "sentences": [
+          "my handle has already started to rip .", 
+          "it looks similar to a lap top bag not a purse like i was hoping .", 
+          "has good protection on the inside for the lap top i just thought there would be more pockets as well as not looking so cheap .", 
+          "definitely would not pay more than ten bucks for this if that ."
+        ]
+      }, 
+      {
+        "rating": -1, 
+        "sentences": [
+          "looks very good , very professional , fashionable .", 
+          "material is way to cheap and it wo n't last to much .", 
+          "i already have a lot of problems with it .", 
+          "inside is awesome for your laptop .", 
+          "i wo n't recommend it if you will use it everyday or for traveling ."
+        ]
+      }, 
+      {
+        "rating": -1, 
+        "sentences": [
+          "i recently purchased my first mac for college and i was so excited to get a new bag to hold it .", 
+          "when i saw this bag i knew it would be perfect and it is !", 
+          "it has two pockets , one for the laptop itself and then one for other things such as folders or a planner .", 
+          "i used this bag for classes and attached the shoulder strap .", 
+          "but after about a month of use the loops that i hooked the shoulder strap to started to tear .", 
+          "i unfortunately had to stop using it as a class bag but it still works great if i am going out to study and i just need to bring my laptop and a notebook .", 
+          "the hand straps have not ripped or torn so really i think the problem was that i put too much weight in the bag .", 
+          "i still use it quite often and i would highly recommend this item .", 
+          "it is wonderful .", 
+          "it looks great and overall it functions perfectly !"
+        ]
+      }, 
+      {
+        "rating": -1, 
+        "sentences": [
+          "love the bag , protects my lap top perfectly !", 
+          "the color ir so pretty , matches my laptop 's pink case , pink speakers and pink keyboard cover < 3 also my pink kindle case : d wich this bag is big enough to carry it as well .", 
+          "it is very well built , the material has good quality and the little bag for the laptop cables is big enough to keep safe my macbook cables , some adapters , remote control and the pink strap that comes with this bag .", 
+          "also it has cellphone and pens compartments and it has as much space to save documents , kindle in case , glasses case , the little white bag , my speakers , some cds and my wallet , without deforming or looking stuffed .", 
+          "i definitely recommend this bag !", 
+          "!", 
+          "!"
+        ]
+      }
+    ], 
+    "summaries": {
+      "quality": [
+        "the quality is n't the best , it breaks very easily because the materials are cheap .", 
+        "it is made of cheap materials , it is a poor quality bag because it broke very quick just after some time of use .", 
+        "bad quality . it breaks very easily . the material used is cheap ."
+      ], 
+      "looks": [
+        "it looks nice , just like the picture . the color is great and it looks like a bag that a proffessional would use .", 
+        "the bag looks good , it has nice colors . it 's a bag a professional would use and still look very fashionable .", 
+        "the look is ok , very nice color . it seems like a professionals bag ."
+      ], 
+      "fit": [
+        "it is ok , but make sure you know your laptop size first . for a 14 inch size device it 's ok. you can put some stuff like the charger with the laptop but not too much or it wo n't close .", 
+        "it fits a 14 '' '' inches device very well but for a 14.1 '' '' it may be too small or tight . it has extra pockets to put cables or extra stuff . make sure you know yor laptop size .", 
+        "the size is n't enough to carry any laptop . you should be sure of your laptop size before purchasing it . a 14 inches device fits perfectly but there 's not much space to put any other thing such as cables ."
+      ], 
+      "general": [
+        "this bag might look nice , has good protection on the inside for the lap top it is very well built , the price was good , it is lightweight . love the color . poor quality . then there was the overpowering chemical smell materials are cheap , stitches along the borders are not very secure . barely fit a 14 inch hp sleek notebook . does not worth 25 $ .", 
+        "has good protection on the inside for the lap top it looks great and overall it functions perfectly ! the color ir so pretty , it is very well built , the material has good quality also it has cellphone and pens compartments the price was good , it is lightweight . poor quality . then there was the overpowering chemical smell materials are cheap , stitches along the borders are not very secure . barely fit a 14 inch hp sleek notebook . material is way to cheap and it wo n't last to much . this bag does not fit my laptop .", 
+        "has good protection on the inside for the lap top looks very good , very professional , fashionable . the color ir so pretty , it is very well built , the material has good quality the strap broke after only 3 months , materials are cheap , stitches along the borders are not very secure . barely fit a 14 inch hp sleek notebook ."
+      ]
+    }
+  }, 
+  {
+    "reviews": [
+      {
+        "rating": -1, 
+        "sentences": [
+          "i bought this case with the intent that it would protect my computer .", 
+          "it did the complete opposite , and now the paint on the front part of my computer has worn off in two spots .", 
+          "the front zipper where the charger is placed ( as pictured in the photo ) , wore a hole through the padding , and started to scratch my computer .", 
+          "avoid this case ."
+        ]
+      }, 
+      {
+        "rating": -1, 
+        "sentences": [
+          "the good : thin but well padded , inexpensive , and good looking sleeve .", 
+          "i loved it when i first opened it .", 
+          "my lenovo yoga 2 pro was slightly loose , but still secure in it .", 
+          "i chose this sleeve over the other for the possibility of sticking the power cord into the side pocket in a rush situation .", 
+          "the bad and the ugly .", 
+          "as soon as i put my laptop in the sleeve , i noticed that the sleeve has hidden on the inside two loops that can be pulled out and used to carry the the case with your hands .", 
+          "neat idea , except that those two loops are attached to the inside of the case with two thick metallic buttons .", 
+          "and guess what , as you slide your laptop in and out of the sleeve , they rub against the exterior of the laptop regularly , making it ripe for scratches and marks .", 
+          "just what i needed for my delicate ultrabook .", 
+          "thankfully amazon has easy returns and this one is going back for sure !"
+        ]
+      }, 
+      {
+        "rating": -1, 
+        "sentences": [
+          "the sleeve gives a good protection and looks rugged enough to be used in backpacks or suitcases .", 
+          "it 's light padded but i did n't expect a huge protection from shocks or hits by this kind of sleeves .", 
+          "the downside ( that costed two stars to this review ) is that there are two small handles with metallic fastener that are normally stowed inside the sleeve .", 
+          "the fasteners are in direct contact with the laptop so they might end up scratching it ."
+        ]
+      }, 
+      {
+        "rating": -1, 
+        "sentences": [
+          "not much to say about this , it 's a fairly basic neoprene sleeve .", 
+          "it has nice construction for $ 12 .", 
+          "steel zipper glides are kept away from scratching your laptop by internal gussets of neoprene .", 
+          "the external pocket is fairly big .", 
+          "mine is black on the outside and lime green inside , an attractive combination .", 
+          "the sleeve is slightly too big for a new 13 `` macbook pro .", 
+          "while it 's not exactly a `` custom fit `` , it works fine .", 
+          "no reason to spend any more than this ."
+        ]
+      }, 
+      {
+        "rating": -1, 
+        "sentences": [
+          "this is a nice neoprene sleeve for my macbook air .", 
+          "the fit is perfect and it gives a nice amount of padding .", 
+          "it probably wo n't protect my laptop from a fall , but it 's great for day-to-day protection while my laptop is either at my home or tucked inside my briefcase .", 
+          "my only complaint is the interior color - the black case has a bright lime green interior .", 
+          "i do n't care for it , but no one really sees it .", 
+          "overall , a good value ."
+        ]
+      }, 
+      {
+        "rating": -1, 
+        "sentences": [
+          "i bought this case based on the good reviews and the cheap price .", 
+          "my wife and i have to 13 .", 
+          "3 ' macbooks and i had the $ 40 incase sleeve and i got a $ 25 case logic case for my wife .", 
+          "both of those were made out of noticeably thicker material than this one .", 
+          "while this case fit fine and looked fine , i could tell right away that the material was thinner , almost paper-thin .", 
+          "i just would feel nervous putting my laptop in one of these , you might as well not have a case at all .", 
+          "i returned it and opted for the $ 25 case logic case .", 
+          "i think it 's worth the extra $ 10 ."
+        ]
+      }, 
+      {
+        "rating": -1, 
+        "sentences": [
+          "description says it will fit 13 .", 
+          "3 inch ultrabooks , but this is false .", 
+          "do not buy for a 13 .", 
+          "3 inch ultrabook .", 
+          "my lenovo ideapad yoga 13 did not fit in it .", 
+          "good product design , but poor description ."
+        ]
+      }, 
+      {
+        "rating": -1, 
+        "sentences": [
+          "i have a new 13 `` macbook air and was looking for a horizontally-oriented sleeve to put in another bag .", 
+          "the price on this was good and the feel is generally ok , but i have a couple of complaints .", 
+          "first , the sleeve is a bit too big for the macbook air .", 
+          "there 's still a lot of empty space when the computer is in the sleeve .", 
+          "second , the sleeve is n't really that protective .", 
+          "the material is quite thin .", 
+          "i would n't count on any sort of drop protection if you happen to drop your computer while it 's in this sleeve .", 
+          "overall , ca n't complain too much but i 'm on the lookout for other sleeves ."
+        ]
+      }, 
+      {
+        "rating": -1, 
+        "sentences": [
+          "bought this item for the lenovo ( 13 `` ) yoga laptop .", 
+          "although you have to stretch the sleeve a bit around the edge of the laptop to zip it close , the product is everything i expected .", 
+          "the side pocket adds a nice touch .", 
+          "cushioning/padding is adequate .", 
+          "overall , great product for a reasonable price ."
+        ]
+      }, 
+      {
+        "rating": -1, 
+        "sentences": [
+          "this bag is very well-made .", 
+          "when i ordered it , i did n't realize that it even has handles hidden at the top !", 
+          "it 's a little bit bigger than my 13 .", 
+          "3 inch macbook pro ( even after i put on a hard shell ) ; so if you are looking for a snug fit , this might not be your favorite .", 
+          "but it works for me .", 
+          "i especially like the front pocket .", 
+          "it would be so convenient for the charger and everything else ( e.g.", 
+          ", a mouse ) ."
+        ]
+      }
+    ], 
+    "summaries": {
+      "quality": [
+        "the bag is really well made . although the material is a really thin , it is a well constructed case for the price .", 
+        "it has a nice construction for the price but the material is a bit thin . so it 's important to be careful or it will rip . overall the quality of this product is ok .", 
+        "the material is well made but it 's thin . overall it is ok for the price ."
+      ], 
+      "looks": [
+        "it looks fine . this product has a good design and good looking sleeve . it has a good color combination . overall it is good .", 
+        "good product design . it is a good looking case with beautiful colors , black on the outside and green on the inside . it 's well made .", 
+        "it has a good design , two colored : black on the outside and inside it is green . it looks fine ."
+      ], 
+      "fit": [
+        "this case is slightly too big for a 13 inch laptop . it 's not snug like custom made but it works fine . on the other side it 's too small for a devices bigger than 13 '' '' .", 
+        "this case fits fine for some 13 inch devices , maybe it 's a little bigger so there is a bit of extra space inside , but it works ok .", 
+        "the case is a little bigger than needed , but a 13 inches laptop fits , and there 's a little extra space to put in the charger ."
+      ], 
+      "general": [
+        "thin but well padded , inexpensive , and good looking sleeve . the sleeve gives a good protection the side pocket adds a nice touch . the fit is perfect second , the sleeve is n't really that protective . the fasteners are in direct contact with the laptop scratching it . while it 's not exactly a `` custom fit `` , the black case has a bright lime green interior .", 
+        "thin but well padded , inexpensive , and good looking sleeve . overall , great product for a reasonable price . steel zipper glides are kept away from scratching your laptop by internal gussets of neoprene . the fit is perfect it 's light padded the fasteners are in direct contact with the laptop so they might end up scratching it .", 
+        "and looked fine , good product design , the sleeve gives a good protection this bag is very well-made . i especially like the front pocket . the fit is perfect overall , a good value . but poor description . first , the sleeve is a bit too big for the macbook air . the material is quite thin . it 's light padded the fasteners are in direct contact with the laptop scratching it . it probably wo n't protect my laptop from a fall , my only complaint is the interior color -"
+      ]
+    }
+  }, 
+  {
+    "reviews": [
+      {
+        "rating": -1, 
+        "sentences": [
+          "this might be a good case for other 13 .", 
+          "3 inch laptop , but it definitely does not fit a macbook air 13 .", 
+          "3 ( 2013 model ) .", 
+          "the case is so small that it 's difficult for me to put macbook air into it and i could hardly take it out of the case ."
+        ]
+      }, 
+      {
+        "rating": -1, 
+        "sentences": [
+          "i ordered this sleeve for my lenovo ideapad .", 
+          "the case was too small .", 
+          "the computer fit , but just barely .", 
+          "it 's a hassle getting it in or out of the sleeve , and the seams began to tear within a week of receiving it .", 
+          "it 's not leather , and it does n't look like it .", 
+          "i do like the soft material inside , and the magnetic closure is slick .", 
+          "although it pops open regularly , because the case is too small for the computer it is advertised to fit in the title ."
+        ]
+      }, 
+      {
+        "rating": -1, 
+        "sentences": [
+          "i got this as a gift , and i have the lenovo ideapad u310 , which it says is compatible .", 
+          "it is not compatible .", 
+          "the laptop does n't fit inside , it 's too big by about 1/2in to even fit in the opening , not to mention having to fit the entire height of the computer inside .", 
+          "i 'm going to have to buy one size bigger if it 's available .", 
+          "it is a very nice-looking case and i hope one size bigger is available ."
+        ]
+      }, 
+      {
+        "rating": -1, 
+        "sentences": [
+          "great !", 
+          "good price , quick ship , fits a regular 13 `` best .", 
+          "my macbook pro fits very tightly inside this sleeve so expect that to be a minor problem .", 
+          "only one i can think of though .", 
+          "very nice leather and quality product that is definitely worth the money .", 
+          "looks good and is easy to handle without slipping out of your hands .", 
+          "also great protection with average use .", 
+          "recommended ."
+        ]
+      }, 
+      {
+        "rating": -1, 
+        "sentences": [
+          "right size .", 
+          "good quality .", 
+          "great price .", 
+          "do n't look further .", 
+          "the dell notebook is odd shape and leather sleeve ( us $ 60 ) , or the nylon one ( us $ 30 ) offered by dell are not superior to this one ."
+        ]
+      }, 
+      {
+        "rating": -1, 
+        "sentences": [
+          "i loved this case , it was so inexpensive and my macbook air fit perfectly in it .", 
+          "unfortunately after regular use , i.e .", 
+          "i used it monday-thursday in law school , it already has ripped at an edge .", 
+          "i am so careful with my laptop so i 'm assuming this is from poor quality of the case .", 
+          "but you do get what you pay for .", 
+          "i guess i just thought it would last me at least a semester not just 1 month !"
+        ]
+      }, 
+      {
+        "rating": -1, 
+        "sentences": [
+          "i know this was n't an overly expensive item , but at the same time , it should work for what it is advertised .", 
+          "i purchased this case for a 13 in macbook air , and it does n't even begin to fit .", 
+          "i can not get the laptop even half way into this case .", 
+          "i read many reviews prior to actually ordering that indicated quite clearly they had also used it for a 13 in macbook air .", 
+          "i would be perfectly content if only it actually covered the item for which it was purchased .", 
+          "i does appear as though it would fulfill my needs for a lightweight cover to allow me to easily store my laptop around the house without worrying about the stray scratches and scuffs .", 
+          "if only it would fit !", 
+          "!"
+        ]
+      }, 
+      {
+        "rating": -1, 
+        "sentences": [
+          "an awesome lil stylish bag that fits a macbook air or any other that 's slightly slightly thicker will fit perfectly .", 
+          "it looked better in the picture , but it was still good .", 
+          "i bought as a gift and my friend was really pleased so it worked out ."
+        ]
+      }, 
+      {
+        "rating": -1, 
+        "sentences": [
+          "this case is really beautiful and fits my computer snug .", 
+          "fashionable and sleek i am pretty happy with it .", 
+          "the quality is n't the best and i have a little tear in from commuting so much with it , but nothing that will stop me from using it .", 
+          "great product for the price ."
+        ]
+      }, 
+      {
+        "rating": -1, 
+        "sentences": [
+          "i purchased this to keep dust and scratches away from my new sony vaio pro 13 ultrabook .", 
+          "it fits beautifully and looks great .", 
+          "product quality is also good .", 
+          "no issues with closure on the vaio , regardless of direction of insertion , though it is easier to pull it out if you put the spine in first .", 
+          "recommend the vendor and the product ."
+        ]
+      }
+    ], 
+    "summaries": {
+      "quality": [
+        "the materials for this product are ok. the leather of this case cover rips with a normal use and wear . it has a good material on the inside .", 
+        "the quality is ok. it should be treated carefully . the materials inside are ok too . but it is not leather .", 
+        "the quality of this bag is ok. it is n't the best but it is n't the worst . it has to be treated gently or it will rip ."
+      ], 
+      "looks": [
+        "looks better on the picture , but overall is a good looking bag . it is stylish , easy to handle and is a beautiful case .", 
+        "it looks great , just like the picture . very fashionable and pretty .", 
+        "it 's a good looking case , very fashionable , beautiful and stylish . it looks better in the picture but it really does the job ."
+      ], 
+      "fit": [
+        "the bag fits a regular 13 inch device but no more than that . the 13 inch device barely fits . overall this bag is too small .", 
+        "the case is too small to carry a regular laptop . it fits a 13 inch device but there 's no extra space .", 
+        "the bag is too small , it can barely fit a 13.3 inches laptop . there 's no extra space , it 's too tight . it 's better for a 13 '' '' device ."
+      ], 
+      "general": [
+        "i do like the soft material inside , and the magnetic closure is slick . this case is really beautiful good price , quick ship , fits a regular 13 `` best . also great protection with average use . good quality . this is from poor quality of the case . the case is so small and it does n't even begin to fit . the quality is n't the best", 
+        "this case is really beautiful great product for the price . very nice leather and quality product it fits beautifully and the seams began to tear within a week of receiving it . the laptop does n't fit inside , the quality is n't the best", 
+        "i do like the soft material inside , very nice leather and quality product also great protection with average use . and looks great . right size . great price . the case is so small and it does n't even begin to fit . and the seams began to tear within a week of receiving it . it 's not leather , although it pops open regularly , it is not compatible . the quality is n't the best"
+      ]
+    }
+  }
+]

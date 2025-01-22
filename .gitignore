@@ -1,0 +1,6 @@
+models/*
+.ropeproject
+*.db
+**/.ipynb_checkpoints
+*.ipynb
+__pycache__

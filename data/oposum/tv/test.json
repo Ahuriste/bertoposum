@@ -1,0 +1,736 @@
+[
+  {
+    "reviews": [
+      {
+        "rating": -1, 
+        "sentences": [
+          "i was given my tv as a gift , it did n't last a year .", 
+          "what a pos , not too mention the `` help desk `` were not helpful at all .", 
+          "it 's more hassel than it 's worth .", 
+          "spend a little more money and get a decent tv ."
+        ]
+      }, 
+      {
+        "rating": -1, 
+        "sentences": [
+          "yes , the picture is good .", 
+          "it 's lightweight .", 
+          "it would be fine for a guest bedroom where it is used only occasionally .", 
+          "the sound is so tinny -- even after adjusting the bass and treble -- that i do not recommend it for everyday use ."
+        ]
+      }, 
+      {
+        "rating": -1, 
+        "sentences": [
+          "this is my 1st flat screen and for the price i am satisfied .", 
+          "the sound is weird on it ... so if you are wanting to jam out to mtv , i would n't use this .", 
+          "but for a small bedroom tv it does what i need it to do .", 
+          "again the price was the reason i got it .", 
+          "the picture is just fine .", 
+          "nice clear color and sharp picture ."
+        ]
+      }, 
+      {
+        "rating": -1, 
+        "sentences": [
+          "bought this little tv for my exercise room and it really nice for this application .", 
+          "gave it 4 stars because the sound is really kinda `` tinny `` .", 
+          "( most of these thin tv 's have room for improvement with there speakers ) has a real nice picture and seems to work just great .", 
+          "i 'm happy with it !", 
+          "... penny"
+        ]
+      }, 
+      {
+        "rating": -1, 
+        "sentences": [
+          "this is a good secondary tv , one for the guest bedroom or the rv , or for use as a computer monitor if you do n't need a large one .", 
+          "it 's very compact and light , so you can easily move it from room to room .", 
+          "the picture is not only good , it 's good from several angles .", 
+          "i like old movies , and the black-and-white contrast in this tv is better than the grayed-out one of a 27-inch led tv i recently bought at almost three times the price .", 
+          "as with every tv i 've owned in recent years , you can get several picture aspects : 4 : 3 normal , 16 : 9 widescreen , zoom , or cinema .", 
+          "the sound is not great , but it 's pretty good , and ( if you want ) you can turn it to quite loud .", 
+          "this tv does boot rather slowly ( the picture is slow to appear ) , and changing channels is also slow , but i can live with that .", 
+          "the remote control has the usual features and is easy to interpret .", 
+          "in sum , this is a very nice little tv for an excellent price ."
+        ]
+      }, 
+      {
+        "rating": -1, 
+        "sentences": [
+          "i bought this tv for a bedroom .", 
+          "i wanted it to be able to pick up over-the-air stations with an antenna if the cable went down .", 
+          "i placed the tv on a nightstand under a window , hooked up the antenna , and attempted to scan for channels .", 
+          "after 3 attempts , it was unable to recognize any channels at all !", 
+          "an older 10 `` picture tube sony tv from the 90 's in the same location with the same antenna can and still does pick up over 30 stations ( with the help of an insignia digital converter box ) .", 
+          "when i unhooked the antenna from the apex tv , the cable input jack snapped off the tv !", 
+          "the cable input jack is the achilles heel of this tv .", 
+          "the design of the tv in the back prevents a straight hookup of a cable wire or antenna without it being kinked .", 
+          "think twice before buying this tv : the price is enticing , but beware of the design flaw of the input connections ."
+        ]
+      }, 
+      {
+        "rating": -1, 
+        "sentences": [
+          "the picture quality is very sharp & crisp although the sound is horribley `` tinny `` & squeaky .", 
+          "like a previous reviewer , i also had to go out and get new , external speakers -- around $ 20 at staples .", 
+          "these made a world of sound difference , but it was a hassle that i really did n't need .", 
+          "steve b ."
+        ]
+      }, 
+      {
+        "rating": -1, 
+        "sentences": [
+          "the tv is great except the sound .", 
+          "the sound seems to come from the back and it is very ( tunnel ) like .", 
+          "you have to really put on the bass to get a decent sound .", 
+          "the picture is great ."
+        ]
+      }, 
+      {
+        "rating": -1, 
+        "sentences": [
+          "i was looking for a larger tv for this small room .", 
+          "i had a dvd player and screen in use for years there .", 
+          "so when i got this one it was perfect !", 
+          "the sound is not bad .", 
+          "great view from the side .", 
+          "not so much under or above it , but who does that ?", 
+          "( oh , i did ... lol ) anywho .", 
+          "it 's worth the price .", 
+          "great delivery .", 
+          "no complaints .", 
+          "respect"
+        ]
+      }, 
+      {
+        "rating": -1, 
+        "sentences": [
+          "i love this tv .", 
+          "the picture is glorious , as if you are looking through a window .", 
+          "it is light , slim , and sleek .", 
+          "the ports are good .", 
+          "the only two downsides of this tv is the sound and the cable connector .", 
+          "the cable connection port ( or whatever it 's called ) is very tight .", 
+          "took a while for me to screw in the wire .", 
+          "the other downside is the sound .", 
+          "the sound from the tv itself is very tiny .", 
+          "i had to purchase computer speakers for it , but now i am totally satisfied .", 
+          "this is a nice affordable tv , that is perfect for a bedroom .", 
+          "very pleased !", 
+          "!", 
+          "!"
+        ]
+      }
+    ], 
+    "summaries": {
+      "sound": [
+        "the down side of this tv is the sound , it is very tiny and it sounds like is coming out of a tunnel . it is necessary to adjust the bass just to have a decent sound .", 
+        "the sound is quite good but it is not recommended for daily use , it is quite metallic and strong which can be uncomfortable . the sound is not totally excellent but it is quite good .", 
+        "the sound is n't that great it is tiny and it becomes necessary to make several adjustment to the bass just to get a decent sound ."
+      ], 
+      "picture": [
+        "this tv has a great image quality , the colors are beautiful , it looks great from different angles and it is always crisp .", 
+        "the image is pretty good , sharp , glorious and the photos look really spectacular . the view from the side is quite good but it does not manage to be so much from above or below .", 
+        "the picture quality of this tv is awesome , the colors are very beautiful and it looks crisp from any angle ."
+      ], 
+      "hdmi": [
+        "the cable connection of this tv is not good . the design impedes to make the cable wire or the antenna connection .", 
+        "the design of the top of the tv avoids a direct connection with the antenna , which can cause problems to recognize some channels . the ports are quite good although they might seem very tight .", 
+        "the cable connection port of this tv is very tight , the design makes it uncomfortable and hard to make a simple cable wire or antenna connection ."
+      ], 
+      "general": [
+        "it 's lightweight . the picture quality is very sharp & crisp great view from the side . it 's worth the price . it is light , slim , and sleek . it did n't last a year . but beware of the design flaw of the input connections . the sound is so tinny this tv does boot rather slowly and changing channels is also slow ,", 
+        "it 's lightweight . the picture quality is very sharp & crisp it 's good from several angles . you can turn it to quite loud . the design of the tv in the back prevents a straight hookup of a cable wire or antenna without it being kinked . although the sound is horribley `` tinny `` & squeaky .", 
+        "yes , the picture is good . it 's lightweight . and for the price i am satisfied . the remote control has the usual features it did n't last a year . and changing channels is also slow , the only two downsides of this tv is the sound and the cable connector ."
+      ]
+    }
+  }, 
+  {
+    "reviews": [
+      {
+        "rating": -1, 
+        "sentences": [
+          "i received a broken tv .", 
+          "it was missing the screw for it 's stand and it had 3 dead pixels .", 
+          "the batteries for the remote were still good .", 
+          "that 's a plus .", 
+          "also , the sound on this thing is terrible .", 
+          "worse than the cheapest laptop speakers ... not happy with this purchase ."
+        ]
+      }, 
+      {
+        "rating": -1, 
+        "sentences": [
+          "i bought this because i was looking for a new tv for an extra bedroom .", 
+          "a 32 inch lcd 1080 120 hz for under $ 240 .", 
+          "00 , said why not .", 
+          "right out the box , the tv had green color and lines through the screen .", 
+          "i was hoping it was just a setting but come to find out its a defect and had to send it back .", 
+          "once the new tv came , the problem was gone .", 
+          "the picture is nice and clear but the sound is horrible .", 
+          "i highly recommend having a sound system for this tv ."
+        ]
+      }, 
+      {
+        "rating": -1, 
+        "sentences": [
+          "the picture is great .", 
+          "you ca n't go wrong with lcd .", 
+          "the 32 `` screen is very suitable for your average living room or a bedroom .", 
+          "this can also be swapped out for your computer monitor .", 
+          "most people will ( i expect ) use external sound .", 
+          "the built-in speakers really do n't sound very good -- i think that 's par for the course though , so it 's not a complaint .", 
+          "a couple things to note : start up takes about 10 seconds and channel changes take about 4 seconds .", 
+          "this unit also puts out some heat in back .", 
+          "this unit is quite easy to use and to set up .", 
+          "this is very affordable for a hdtv .", 
+          "we enjoy having this tv ."
+        ]
+      }, 
+      {
+        "rating": -1, 
+        "sentences": [
+          "overall a very good tv with great picture quality .", 
+          "the sound is the only issue .", 
+          "it is not very full with good treble or bass .", 
+          "however , when you connect it to a sound system all is well .", 
+          "a good value priced tv ."
+        ]
+      }, 
+      {
+        "rating": -1, 
+        "sentences": [
+          "the tv in my office just died a few days ago .", 
+          "after searching on line and stores , i came across this tv .", 
+          "it is a great value .", 
+          "the pictures is clear , sharp and the colors are vibrant .", 
+          "you definitely ca n't beat the price !", 
+          "i highly recommend this tv ."
+        ]
+      }, 
+      {
+        "rating": -1, 
+        "sentences": [
+          "we have to watch the tv with the volume all the way to 64 and it sounds the same as ti does at level 35 .", 
+          "the remote does n't work very well either .", 
+          "i would not recommend this tv to anyone !"
+        ]
+      }, 
+      {
+        "rating": -1, 
+        "sentences": [
+          "this tv has been one big disappointment .", 
+          "the picture looks very pixelated when playing bluray movies through my hdmi cable which i have tested on another tv .", 
+          "when using it as a monitor using the vga cable the picture has some fussiness to it and i can see lines across the screen .", 
+          "i sent it back and got a replacement thinking maybe i got a defective one , but the 2nd one had the same issues plus a stuck pixel that i couldnt fix .", 
+          "i will be returning this one today and will be looking for a better brand that will be a little more expensive .", 
+          "i would not recommend this tv to anyone who cares about picture quality ."
+        ]
+      }, 
+      {
+        "rating": -1, 
+        "sentences": [
+          "easy to set up , picture is good , but sound quality is very poor .", 
+          "there are setting for sound , which helped at little , but it stills sounds like you are in a tunnel .", 
+          "a home theater sound system might be the answer to this concern , but i have not tried that option yet ."
+        ]
+      }, 
+      {
+        "rating": -1, 
+        "sentences": [
+          "the first tv i received was defective .", 
+          "although the picture was good , there were so many stuck pixels they became a distraction .", 
+          "with this replacement monitor , i decided to set it up as a pc monitor since my dell was getting old and was much smaller .", 
+          "i 'm really enjoying this unit .", 
+          "it was very easy to set up to the pc , and i was pleased with the bright , clear color .", 
+          "the best thing about it is the size .", 
+          "i do not see well , and i am thrilled with how easy it is to see things on this monitor .", 
+          "i do lots of editing , and this is definitely going to make my life easier .", 
+          "fortunately , it just fit on my desk and perfectly matches my black pc and printer .", 
+          "i highly recommend it to those of you who have decreased eyesight .", 
+          "you will love it and will never want to work with a small monitor again ."
+        ]
+      }, 
+      {
+        "rating": -1, 
+        "sentences": [
+          "no issues with the coby tftv3247 32 inch 1080p 120hz widescreen lcd hdtv .", 
+          "shipped to me in afghanistan at an apo address , arrived in great shape , packaged carefully .", 
+          "picture is awesome , zero lag for gaming , plenty of inputs on the back .", 
+          "i did n't see any of the old a/v inputs ( the red white and yellow ones ) however .", 
+          "for the price , you wo n't do any better than this .", 
+          "i 've had it for a little over a month now ."
+        ]
+      }
+    ], 
+    "summaries": {
+      "sound": [
+        "the sound on this tv is an issue , the speakers do n't sound very good . there are settings that helped a little but at the end it always sounds like a tunnel .", 
+        "the sound of this tv is low quality , the built in speakers do n't sound good . it 's better to hook up an external sound system .", 
+        "the sound is not good at all , it has built-in speakers that do n't really sound good , adjusting the sound may help a little but it is not enough ."
+      ], 
+      "picture": [
+        "the picture is clear and nice but sometimes there are lines and colors all across the screen impeding to watch tv normally .", 
+        "the pictue quality for this tv is just ok most of the time is good and clear but sometimes it looks very pixelated when watching hd content , it 's like the pixels get stuck .", 
+        "the image is nice and clear but the sound is not totally good , the photos look great and have good quality , they are sharp and with vibrant colors ."
+      ], 
+      "hdmi": [
+        "this tv has plenty of inputs on the back , useful for gaming or to hookup another type of device . it 's ok for the price .", 
+        "this tv has different connectors according to the use but is lacking of the av inputs ( the red and yellow ones ) which are sometimes necessary .", 
+        "the tv has several connectors on the back . in general the connection is quite good for the cost of this product ."
+      ], 
+      "general": [
+        "this unit is quite easy to use and to set up . this is very affordable for a hdtv . the pictures is clear , sharp and the colors are vibrant . picture is awesome , zero lag for gaming , plenty of inputs on the back . it was missing the screw for it 's stand and it had 3 dead pixels . also , the sound on this thing is terrible . the remote does n't work very well either . the picture looks very pixelated and i can see lines across the screen .", 
+        "overall a very good tv with great picture quality . sharp and the colors are vibrant . picture is awesome , zero lag for gaming , plenty of inputs on the back . and it had 3 dead pixels . the built-in speakers really do n't sound very good but sound quality is very poor .", 
+        "the picture is great . this unit is quite easy to use this is very affordable for a hdtv . the best thing about it is the size . and it had 3 dead pixels . the remote does n't work very well either . the picture looks very pixelated but sound quality is very poor . i did n't see any of the old a/v inputs"
+      ]
+    }
+  }, 
+  {
+    "reviews": [
+      {
+        "rating": -1, 
+        "sentences": [
+          "i received the tv yesterday .", 
+          "i expected to have minor issues with back light bleeding as others have reported , but it was much worse than i expected .", 
+          "the bleeding on the right side of screen extended vertically almost entirely from the bottom corner to top corner and then out about 5 inches from right to left along the top and bottom .", 
+          "also , there was a large blue area in the middle of the screen that was very visible when the screen was black , and there was a dead pixel in the upper right quadrant of the screen .", 
+          "i 'd say this thing is defective .", 
+          "getting a refund and getting something else ."
+        ]
+      }, 
+      {
+        "rating": -1, 
+        "sentences": [
+          "quit working after 9 + months .", 
+          "worked fine .", 
+          "great picture .", 
+          "great sound .", 
+          "i thought i was happy but i was expecting the tv to last 3-4 years not 9 months ... guess i was wrong !"
+        ]
+      }, 
+      {
+        "rating": -1, 
+        "sentences": [
+          "i was really excited when i saw this for $ 350 .", 
+          "i 've wanted an led tv for a while and could finally afford one .", 
+          "performance is just ok. pix-elates during bright flashes on the screen .", 
+          "also color washes out at greater than 30 degree angle , can still see picture just looks like its in a bright fog .", 
+          "head on though the picture quality is excellent , and the features are pretty good .", 
+          "one thing that i was really disappointed in is that i have a wii for the wife and kids and this does not have the standard coax input you need the hd connectors .", 
+          "from what i 've seen with those it 's hit and miss on quality and picture so i 'm hoping the one i 've ordered will be good .", 
+          "all in all i think it is well worth the price , but definitely not the best out there .", 
+          "if i would 've had more to spend i might have tried the tcl 48 `` led or gotten another vizio ."
+        ]
+      }, 
+      {
+        "rating": -1, 
+        "sentences": [
+          "easy set up .", 
+          "clear picture , however sound is very tinny had to hook up a speaker system .", 
+          "side mounted inputs made it easy .", 
+          "all in all good deal for the price !"
+        ]
+      }, 
+      {
+        "rating": -1, 
+        "sentences": [
+          "i was searching for an easy to use hdtv for my 90 year-old grandmother and i am happy i went with this rca 42-inch 1080p 60hz led hdtv .", 
+          "setup was very easy and the remote is simple to use .", 
+          "does come with two hdmi , pc , usb port and av inputs for individuals who wish to connect more components and devices .", 
+          "displays beautiful vivid colors that are crisp and vibrant .", 
+          "sound quality is produced from two 8 watt speakers that sound clear and not muffled .", 
+          "ultra thin and weighs less than 40 pounds .", 
+          "the swivel stand is an added bonus since must table top stands do not move .", 
+          "great value for the money and highly recommend it ."
+        ]
+      }, 
+      {
+        "rating": -1, 
+        "sentences": [
+          "the sound is mediocre .", 
+          "when the picture is blank , the right side of the screen is blue while the left side is black .", 
+          "this blue `` tint `` is also visible when viewing programming .", 
+          "while the price was attractive , i would not repeat this purchase ."
+        ]
+      }, 
+      {
+        "rating": -1, 
+        "sentences": [
+          "this tv has great picture and sound ... however the screen is messed up like some others reviewers have mentioned .", 
+          "large white or faded spots on the screen , which you usually can not see when the picture is colorful and bright , but any dark scenes the foggy , white , large area is quite noticeable .", 
+          "very frustrating .", 
+          "this is not acceptable for purchasing a new tv as i see it as an investment .", 
+          "you want the quality to be as new and the product to last .", 
+          "i paid for an extended warranty and why do that if the product is faulty from the get go .", 
+          "disappointed"
+        ]
+      }, 
+      {
+        "rating": -1, 
+        "sentences": [
+          "for the price , i 'm happy with this ( about $ 300 delivered to my door with prime ) .", 
+          "however , the sound is lacking .", 
+          "it definitely needs to be fed through a sound system for good movie watching .", 
+          "also , once you turn it on , it takes so long for the screen to light up that you might turn it off thinking you did n't push the button hard enough the first time .", 
+          "with that said , i 'm very happy with the picture and the placement of inputs , etc .", 
+          "is all good ."
+        ]
+      }, 
+      {
+        "rating": -1, 
+        "sentences": [
+          "this was our first flat screen tv purchase .", 
+          "we are very pleased .", 
+          "the picture is great and it has all the features and inputs we need .", 
+          "only negative is the sound .", 
+          "has the tinny sound of small speakers .", 
+          "plan to get a sound bar to remedy the situation .", 
+          "looking to buy another if the price is right ."
+        ]
+      }, 
+      {
+        "rating": -1, 
+        "sentences": [
+          "easy to set up , nice slim lines , great picture and sound .", 
+          "i have a 47 inch vizio and the picture is as good if not better than that tv .", 
+          "it is everything i could have asked for ."
+        ]
+      }
+    ], 
+    "summaries": {
+      "sound": [
+        "this tv has a poor sound system , it is very tiny and hard to enjoy . is recommended to hook up an external sound system .", 
+        "this tv is lacking of a good sound system because this one has a tiny one , to enjoy watching tv is necessary to hookup an external sound system .", 
+        "the equipment has great sound although it can be very metallic in some cases , for its part the speakers sound clear and not muffled . to get a really loud sound you will need additional speakers ."
+      ], 
+      "picture": [
+        "the picture on this tv is ok. sometimes when there are bright flashes on the screen it gets pixelated a little , but overall is a clear image .", 
+        "this tv image quality is ok , overall it is clear and crisp but sometimes there are some pixels when the image is too bright , and also sometimes some of the tints are visible .", 
+        "overall performance is fine , however pixelated during bright screen flashes . the image is clear and displays crisp , bright colors . easy to configure and good lines ."
+      ], 
+      "hdmi": [
+        "this tv has a variety of connection ports such as hdmi , usb port , av inputs but is lacking of the standard coax input for hd connectors .", 
+        "this tv has different connection ports which makes it easy to hookup any component you need . it has hdmi , pc , usb port and av , which is great .", 
+        "the side mount inputs are quite easy to use , and have enough inputs for those people who need to connect multiple devices ."
+      ], 
+      "general": [
+        "and the features are pretty good . for the price , i 'm happy with this clear picture , ultra thin and weighs less than 40 pounds . the swivel stand is an added bonus easy to set up , nice slim lines , great picture and sound . the sound is mediocre . when the picture is blank , the right side of the screen is blue while the left side is black . quit working after 9 + months . also color washes out at greater than 30 degree angle , can still see picture just looks like its in a bright fog . has the tinny sound of small speakers .", 
+        "great picture . great sound . all in all good deal for the price ! and it has all the features and inputs setup was very easy and the remote is simple to use . ultra thin and weighs less than 40 pounds . quit working after 9 + months . however the screen is messed up like some others and this does not have the standard coax input only negative is the sound .", 
+        "this tv has great picture and sound ... we are very pleased . and it has all the features and inputs setup was very easy and the remote is simple to use . sound quality is produced from two 8 watt speakers that sound clear and not muffled . it 's hit and miss on quality and picture however , the sound is lacking ."
+      ]
+    }
+  }, 
+  {
+    "reviews": [
+      {
+        "rating": -1, 
+        "sentences": [
+          "after having this tv for just over a year , white spots are starting to show up all over the tv .", 
+          "for that much money it 's ridiculous that the tv is already going bad .", 
+          "trying to see if this tv was part of a recall , but since we 've had it 14 months - seems like we are out our money .", 
+          "do n't waste your money ."
+        ]
+      }, 
+      {
+        "rating": -1, 
+        "sentences": [
+          "the tv quality is pretty solid for the price but within 2 months one of the lcd back lights failed .", 
+          "i called vizio who said they would send out a `` tv we ca n't call new `` to me as a replacement .", 
+          "this means i spent full price on a used tv .", 
+          "shipping was supposed to come a week later but they canceled .", 
+          "they rescheduled another week and by that time the entire tv went black .", 
+          "so for a week i now have to sit with no tv that i paid $ 1500 waiting for them to bring my used tv that i still paid $ 1500 for .", 
+          "apparently the backlight going out is a pretty common problem .", 
+          "easy to find on the internet .", 
+          "in hindsight ... size is n't everything .", 
+          "i should have purchased a better brand ."
+        ]
+      }, 
+      {
+        "rating": -1, 
+        "sentences": [
+          "picture quality is ok but not fantastic .", 
+          "my 5 year old panasonic 50 inch plasma has a better picture but this is not bad .", 
+          "what is disappointing is the viewing angle .", 
+          "if you are not looking straight on at the tv , it appears washed out .", 
+          "perhaps i just need to tune it better but i think my other vizio leds have a better picture overall .", 
+          "you will also need a good source of video as because it is a 70 inch , any imperfections are seen easily .", 
+          "even while watching basketball games , you can see when different cameras are used .", 
+          "the white glove service was not there either .", 
+          "pilot delivered it and only came with one person despite the fact that the box clearly says that it requires two people .", 
+          "my 100lb wife had to help him carry it downstairs .", 
+          "this is still a good value for the money but had expected better ."
+        ]
+      }, 
+      {
+        "rating": -1, 
+        "sentences": [
+          "wonderful television picture , size and quality are all excellent .", 
+          "the price was excellent and i highly recommend this television to anyone who is looking for a big screen smart tv for a good price .", 
+          "the only reason i could n't rate it a full 5 stars is because the sound quality is good but not great i.e .", 
+          "the bass is marginal at best ."
+        ]
+      }, 
+      {
+        "rating": -1, 
+        "sentences": [
+          "i absolutely love this tv .", 
+          "excellent picture quality and sound .", 
+          "the best feature is the ease of the applications .", 
+          "the user interface is very user friendly and everything is easily accessible .", 
+          "the remote makes using this tv very easy .", 
+          "we also purchased a high end 70 `` sony the same day we purchased this tv .", 
+          "the vizio was by far a better tv .", 
+          "i wish we had purchased 2 .", 
+          "delivery was excellent and easy .", 
+          "the delivery people checked the tv before leaving .", 
+          "this is my favorite tv ever ."
+        ]
+      }, 
+      {
+        "rating": -1, 
+        "sentences": [
+          "i 've had this one replaced already once because it starts to get spots after about 6 months .", 
+          "the replacement tv did the exact same thing .", 
+          "now that i 'm beyond warranty i 'm stuck with it as the spots get bigger and bigger every day .", 
+          "i used to love the tv , now it just reminds me when i look at it how much i got ripped off .", 
+          "check any display units in the store , they might have the problem .", 
+          "it only shows when the tv projects white colors .", 
+          "a hockey game is the most obvious way to show them ."
+        ]
+      }, 
+      {
+        "rating": -1, 
+        "sentences": [
+          "very poor picture .", 
+          "i bought this at costco for $ 1450 .", 
+          "at home i did a side to side comparison to my 55 `` full array sony .", 
+          "the vizio picture was quite poor in comparison .", 
+          "very grainy and lousy motion control .", 
+          "i think i will wait for the vizio p series and see how that looks ."
+        ]
+      }, 
+      {
+        "rating": -1, 
+        "sentences": [
+          "i will start off by saying this tv completely fails as a smart tv .", 
+          "it comes preloaded with netflix which would be great except for it lacks the processor speed necessary to actually stream anything .", 
+          "lacks a net browser and the only thing that i hsve found to work well is pandora .", 
+          "fortunately this is not why i bought the tv .", 
+          "i got it because of the picture size and price .", 
+          "the picture is a good quality and has very little lag watching sports ."
+        ]
+      }, 
+      {
+        "rating": -1, 
+        "sentences": [
+          "good quality and picture but the sports programs i have watched get a little choppy .", 
+          "all in all i am quite happy for the price .", 
+          "it 's funny how a massive 70 `` tv seemed giant when i got it .", 
+          "now it seems like a normal size and i want an 85 `` !"
+        ]
+      }, 
+      {
+        "rating": -1, 
+        "sentences": [
+          "ca n't go wrong for a 70 inch led tv for less than $ 1600 .", 
+          "the quality of the picture is amazing after applying some calibration settings .", 
+          "colors really pop and blacks are decent for an edge lit led .", 
+          "do n't really notice any motion blur even with soap opera effect turned off .", 
+          "i sit about 9 feet away and it 's perfect .", 
+          "not to big not to small .", 
+          "delivery guys did an awesome job bring it in the family room and putting it on the stand .", 
+          "i highly recommend this tv to anyone looking for quality at a great price ."
+        ]
+      }
+    ], 
+    "summaries": {
+      "sound": [
+        "the sound queality is ok , it is n't what expected for the price so it leaves a lot to be desired .", 
+        "the image quality of this television is very good , meanwhile the sound can be good but it is not really spectacular .", 
+        "the sound quality is n't good at all as expected for the money , it is low quality sound it has to be adjusted ."
+      ], 
+      "picture": [
+        "the picture quality is ok. it is n't the best , after a while it started to show up white spots all over the screen . the angle vision is n't good at all , fron the sides the image looks blurred .", 
+        "the backlight of the television has some problems , with use it is damaged and may stop working . the movement control is not particularly good . however , the television has good image quality .", 
+        "the image quality is n't that good , after a while white spots started to appear on the screen , also the lcd backlight is failing . great size but not good image especially from sides angles ."
+      ], 
+      "hdmi": [
+        "the vizio e701i-a3 70-inch 1080p razor led smart hdtv ( 2013 model ) does n't have any reviews for me to summarize on the connectivity aspect .", 
+        "the connectors on the tv work properly and do not cause any problems that affect the transmission quality of the device .", 
+        "the vizio e701i-a3 70-inch 1080p razor led smart hdtv ( 2013 model ) does n't have any reviews for me to summarize on the connectivity aspect ."
+      ], 
+      "general": [
+        "the price was excellent excellent picture quality and sound . the user interface is very user friendly but within 2 months one of the lcd back lights failed . very poor picture . lacks a net browser and the only thing", 
+        "the tv quality is pretty solid for the price and has very little lag watching sports . the user interface is very user friendly and everything is easily accessible . white spots are starting to show up all over the tv . very poor picture .", 
+        "the tv quality is pretty solid for the price wonderful television picture , size and quality are all excellent . the user interface is very user friendly and everything is easily accessible . delivery was excellent and easy . white spots are starting to show up all over the tv . apparently the backlight going out is a pretty common problem . very poor picture . very grainy and lousy motion control . what is disappointing is the viewing angle . it comes preloaded with netflix which would be great except for it lacks the processor speed necessary to actually stream anything ."
+      ]
+    }
+  }, 
+  {
+    "reviews": [
+      {
+        "rating": -1, 
+        "sentences": [
+          "i bought the tv at fry 's after salesperson assured me headphones would work with this tv however after buying two different sets of headphones , i realized its not the headphones but the audio outputs on the tv that are not functioning .", 
+          "got online for website shown on owners manual shown tclusa.com and it has apparently been shut down ( only has ads for amazon tvs and not support or contact numbers ) .", 
+          "i would not recommend this company because they have no reliable support system in the us .", 
+          "frustrating !"
+        ]
+      }, 
+      {
+        "rating": -1, 
+        "sentences": [
+          "i own the last model .", 
+          "within a year the hdmi ports stopped working and the tv would go black for about three to five seconds every few minutes .", 
+          "it provided a stable but lower quality resolution picture with the composite cables .", 
+          "other people have also reported the problem .", 
+          "tcl phone reps refused to let me bring it to a service center located in a city 40 miles from my house ( i planned to drive ) and insisted i mail it to them and pay an additional $ 50 shipping charge .", 
+          "i decided not to bother fixing it since it is just a cheapo kitchen tv .", 
+          "the sound quality is okay for the price .", 
+          "never did find a code which worked the tv through my comcast remote ."
+        ]
+      }, 
+      {
+        "rating": -1, 
+        "sentences": [
+          "i bought this in a rush because my previous tv ( a samsung 42 `` plasma ) had gone out and i wanted to get a replacement very quickly .", 
+          "in retrospect , i wish i 'd given myself more time and not bought the first thing that jumped out at me .", 
+          "it 's not that it 's a bad tv , it 's just not great either .", 
+          "it feels smaller than 40 `` when i 'm watching it , the picture is decent but not quite as nice as the samsung it replaced .", 
+          "it has all of the inputs i hoped for ( 3 hdmi being important to me ) .", 
+          "but at the end of the day , it 's just an okay tv in my opinion .", 
+          "for the price , it was a pretty solid option .", 
+          "that said , a big part of me wishes i 'd spent a bit more and gotten something better ."
+        ]
+      }, 
+      {
+        "rating": -1, 
+        "sentences": [
+          "so far so good .", 
+          "great picture quality and sound .", 
+          "i was a bit nervous about purchasing a brand i am unfamiliar with but if works like a tv should .", 
+          "it took effort to get it connected to verizon and i still have to use the tv remote to turn the tv on and off which is why i gave it 4 stars .", 
+          "its also way bigger than anticipated but that was me not getting how big a 40 in tv actually is ."
+        ]
+      }, 
+      {
+        "rating": -1, 
+        "sentences": [
+          "great for the price .", 
+          "i just need it for my bedroom , so basic tv work fine .", 
+          "picture is acceptable and sound is above average .", 
+          "i use it for chromecast , outcome is great .", 
+          "if you budget is under $ 300 for 40 ' tv , then this probably you best choice .", 
+          "i owned a samsung tv .", 
+          "it is definitely better than tcl , but it costs much more .", 
+          "again , if you are looking for a basic tv ( not smart tv ) , i recommend it ."
+        ]
+      }, 
+      {
+        "rating": -1, 
+        "sentences": [
+          "when i bought this tv , i was looking for a solid 58 ' 120hz tv without 3d or smart capabilities .", 
+          "i read the reviews and i thought this would be the perfect fit .", 
+          "i was so wrong .", 
+          "spend the extra couple hundred and buy a tv from a well respected company .", 
+          "below is the list of my buyer beware remarks : the picture quality was worse than my 5 year old lcd samsung .", 
+          "the tv is not true 120hz .", 
+          "it is the 60hz awkward enhanced magic .", 
+          "fast moving objects were incredibly pixelated and blotchy .", 
+          "it was very disappointing .", 
+          "the tv died exactly 2 months after purchase .", 
+          "the tv would power on to a black screen .", 
+          "sending it back to amazon incurred a 20 % restocking fee .", 
+          "after returning this tv to amazon , i went and bought a lg tv .", 
+          "i could not be happier with the new tv and wish i would not have been such a cheap skate a few months ago ."
+        ]
+      }, 
+      {
+        "rating": -1, 
+        "sentences": [
+          "it was great for the first 6 months then all of a sudden it wont turn on , ive tried different outlets and nothing .", 
+          "customer service is non existent i was on hold over an hour and finally hung up , twice !", 
+          "!", 
+          "ive tried them on line and the page gets an error message every time .", 
+          "it looks good for the price but its really not worth it .", 
+          "skip this trash !", 
+          "!"
+        ]
+      }, 
+      {
+        "rating": -1, 
+        "sentences": [
+          "the tcl tv is an odd mix .", 
+          "the sound is surprisingly very good and for general tv viewing does not need a sound bar .", 
+          "the sound is better than tv 's twice its price .", 
+          "the picture however was very disappointing .", 
+          "i struggled for 4 days trying to get this tv is look good .", 
+          "i found that it was inconsistent .", 
+          "720p cable tv looked washed out but 720p movies that i had ripped looked okay .", 
+          "blacks were okay , but bright colors generally looked posterized and the `` blocks `` during up conversion were pretty obvious .", 
+          "funnily enough the 120hz was great watching a bpl football game .", 
+          "my conclusion after fighting settings was that the tv would be great for sports games and watching my own movies ( i can control frame rate etc ) , but for cable tv not so good .", 
+          "another issue i had was a loose frame around the led which led to the light bled around the right edge .", 
+          "i sent the tv back .", 
+          "great value for $ 499 but not for me ."
+        ]
+      }, 
+      {
+        "rating": -1, 
+        "sentences": [
+          "i purchased the 46-inch 60hz version of this led several months ago for our bedroom and we loved it ... especially for the price .", 
+          "well , it was time for the living room to get an upgrade and i went directly for the largest tcl led i could get and this one is it .", 
+          "so far , it 's a terrific tv .", 
+          "good picture , although we do n't have anything that can make use of the 120hz refresh as tv and other media go through a microsoft windows media center htpc .", 
+          "it 's an absolute `` no-frills `` tv .", 
+          "no `` smart `` capabilities at all and i did n't want them as i have no use for them .", 
+          "our htpc , roku , xbox , and wii provide all of that for us , and more .", 
+          "if you do n't need all the features , but want the size , this tv is a great deal .", 
+          "keep an eye on the price though ... it fluctuates a lot .", 
+          "you can get it at a really good price if you 're patient or are n't in a hurry ."
+        ]
+      }, 
+      {
+        "rating": -1, 
+        "sentences": [
+          "love this tv !", 
+          "no major issues at all .", 
+          "video is great , sound is great .", 
+          "for the video , i had to use one of the settings .", 
+          "i saw people take off a star or two for for that fact .", 
+          "who takes off a star because the default settings are n't to their personal preference ?", 
+          "the only issue i encounter is an odd one .", 
+          "sometimes , after changing tv inputs , the screen goes black after a minute or so .", 
+          "i press the input button again , screen goes back to normal .", 
+          "not a huge deal .", 
+          "other than that , i strongly recommend this product .", 
+          "the stand it comes with is pretty flimsy , but as long as it is on a proper tv stand , it 's no issue ."
+        ]
+      }
+    ], 
+    "summaries": {
+      "sound": [
+        "the sound quality is good for the paid price , does n't need an external sound system at all , it is above average . surprisingly good .", 
+        "the sound is surprisingly good for the image quality of this tv is above average . so it does n't need a sound bar .", 
+        "the sound quality is acceptable for the price of the equipment , the sound can be described above average . may not need a sound bar ."
+      ], 
+      "picture": [
+        "the picture quality is n't that good , sometimes the tv would go black for about three to five second every few minutes . the colors are ok , clear colors look posterized .", 
+        "this tv picture quality is acceptable , not the greatest , and the tv goes black like a minute after changing the input settings . so it 's disappointing .", 
+        "the quality is good and the resolution is decent . sharpness is generally good , although blacks are somewhat inconsistent in the image ."
+      ], 
+      "hdmi": [
+        "this tv has different connection ports and that 's great but they stopped working after a few time of using the tv .", 
+        "it has different connectivity ports but after a while of using the tv this ports stopped working . so it is useless .", 
+        "in some cases the output headphones and the hdmi ports have stopped working , however it has enough inputs and for the price it is a pretty solid option ."
+      ], 
+      "general": [
+        "it has all of the inputs i hoped for for the price , it was a pretty solid option . picture is acceptable and sound is above average . i would not recommend this company because they have no reliable support system in the us . the tv is not true 120hz . fast moving objects were incredibly pixelated and blotchy . the tv died exactly 2 months after purchase . the picture however was very disappointing . another issue was a loose frame around the led the stand it comes with is pretty flimsy , but as long", 
+        "the sound is surprisingly very good and for general tv viewing so far , it 's a terrific tv . great for the price . love this tv ! video is great , i realized its not the headphones but the audio outputs on the tv that are not functioning . the tv died exactly 2 months after purchase . the picture however was very disappointing .", 
+        "it has all of the inputs great picture quality and sound . great for the price . the picture quality was worse than my 5 year old lcd samsung . the tv is not true 120hz . the tv died exactly 2 months after purchase . within a year the hdmi ports stopped working the picture however was very disappointing . was a loose frame around the led sometimes , after changing tv inputs , the screen goes black after a minute or so ."
+      ]
+    }
+  }
+]
