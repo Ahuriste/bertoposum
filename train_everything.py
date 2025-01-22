@@ -255,7 +255,6 @@ for domain_code_asp, domain_code_json in zip(domain_codes_asp,
             tr_loss += loss.item()
 
             if (step + 1) % GRADIENT_ACCUMULATION_STEPS == 0:
-                #torch.nn.utils.clip_grad_norm_(model.parameters(), MAX_GRAD_NORM)
 
                 optimizer.step()
                 optimizer.zero_grad()
