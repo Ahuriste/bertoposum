@@ -21,7 +21,7 @@ for domain in metric_models ["rouge1"].index:
         m = [m_/coeff for m_ in m]
         v = m+b
         mm = np.argmax(v)
-        outl = [f"{val:0.2f}" for val in v]
+        outl = [f"{100*val:0.1f}" for val in v]
         for i,o in enumerate(outl):
             if o == outl[mm]:
                 outl[i] = "\\textbf{"+outl[mm]+"}"
