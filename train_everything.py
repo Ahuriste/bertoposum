@@ -152,7 +152,14 @@ def collate_fn(batch):
 metric_names = ["rouge1", "rouge2", "rougeL"]
 pipes = ["P", "A", "A+P"]
 metrics = {m: pd.DataFrame({p: [] for p in pipes}) for m in metric_names}
+first = True
+if not first:
+    for key in metrics.keys():
+        metrics[key] = pd.read_csv(f"{key}.csv",index_col=0)
+
 losses_df = pd.DataFrame({"macro f1": []})
+if not first:
+    losses_df = pd.read_csv("loss.csv",index_col=0)
 model_name = "roberta-base"
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 num_labels = 9
@@ -161,8 +168,10 @@ domain_codes_asp = [
 ]
 domain_codes_json = ["bt", "boots", "bag", "vacuum", "tv", "keyboard"]
 for counter in range(20):
+    print(counter)
     for domain_code_asp, domain_code_json in zip(domain_codes_asp,
                                                 domain_codes_json):
+        print(domain_code_asp)
         model = RobertaForSequenceClassification.from_pretrained(
             model_name,
             problem_type="multi_label_classification",
@@ -325,7 +334,7 @@ for counter in range(20):
                                             predictions=predictions,
                                             use_stemmer=True)
                 for metric in metric_names:
-                    if counter == 0:
+                    if first and counter == 0:
                         metrics[metric].loc[domain_code_asp,
                                         pipes[pipe_index]] = rouge_metrics[metric]
                     else:
