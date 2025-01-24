@@ -216,7 +216,7 @@ if not first:
     for key in metrics.keys():
         metrics[key] = pd.read_csv(f"{key}.csv",index_col=0)
 
-losses_df = pd.DataFrame({"macro f1": []})
+losses_df = pd.DataFrame({"f1": []})
 #if not first:
 #    losses_df = pd.read_csv("loss.csv",index_col=0)
 model_name = "roberta-base"
@@ -346,7 +346,7 @@ for counter in range(20):
 
         model.load_state_dict(
             torch.load("models/pytorch_model.bin", map_location=device))
-        mbce, f1 = evaluate_accuracy(model, test_dataloader)
+        f1 = evaluate_accuracy(model, test_dataloader)["weighted_f1"]
         losses_df.loc[domain_code_asp, "f1"] = f1
         rouge = load("rouge")
         """
