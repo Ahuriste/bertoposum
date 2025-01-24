@@ -21,7 +21,17 @@ from sentence_similarity import compute_cosine_similarity
 import pandas as pd
 
 
+GRADIENT_ACCUMULATION_STEPS = 1
+
+NUM_TRAIN_EPOCHS = 20
+LEARNING_RATE = 1e-5
+MAX_GRAD_NORM = 15
+BATCH_SIZE = 4
+
+first = True
+
 def classify(sentences, temperature=1):
+
     model.eval()
     encoding = tokenizer(sentences,
                          padding=True,
@@ -152,14 +162,13 @@ def collate_fn(batch):
 metric_names = ["rouge1", "rouge2", "rougeL"]
 pipes = ["P", "A", "A+P"]
 metrics = {m: pd.DataFrame({p: [] for p in pipes}) for m in metric_names}
-first = True
 if not first:
     for key in metrics.keys():
         metrics[key] = pd.read_csv(f"{key}.csv",index_col=0)
 
 losses_df = pd.DataFrame({"macro f1": []})
-if not first:
-    losses_df = pd.read_csv("loss.csv",index_col=0)
+#if not first:
+#    losses_df = pd.read_csv("loss.csv",index_col=0)
 model_name = "roberta-base"
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 num_labels = 9
@@ -197,25 +206,19 @@ for counter in range(20):
 
         general_aspect_label = dev_dataset.general_label
 
+
         train_dataloader = DataLoader(train_dataset,
-                                    batch_size=4,
+                                    batch_size=BATCH_SIZE,
                                     shuffle=True,
                                     collate_fn=collate_fn)
         test_dataloader = DataLoader(test_dataset,
-                                    batch_size=4,
+                                    batch_size=BATCH_SIZE,
                                     shuffle=False,
                                     collate_fn=collate_fn)
         val_dataloader = DataLoader(val_dataset,
-                                    batch_size=4,
+                                    batch_size=BATCH_SIZE,
                                     shuffle=False,
                                     collate_fn=collate_fn)
-
-        GRADIENT_ACCUMULATION_STEPS = 1
-
-        NUM_TRAIN_EPOCHS = 20
-        LEARNING_RATE = 1e-5
-        MAX_GRAD_NORM = 15
-        BATCH_SIZE = 32
 
         num_train_steps = int(
             len(train_dataloader.dataset) / BATCH_SIZE /
@@ -280,6 +283,7 @@ for counter in range(20):
                 model_to_save = model.module if hasattr(model, 'module') else model
                 output_model_file = os.path.join(OUTPUT_DIR, MODEL_FILE_NAME)
                 torch.save(model_to_save.state_dict(), output_model_file)
+                print(_)
             else:
                 no_improvement += 1
 
@@ -342,4 +346,4 @@ for counter in range(20):
                                         pipes[pipe_index]] += rouge_metrics[metric]
     for key, value in metrics.items():
         value.to_csv(f"{key}.csv")
-    losses_df.to_csv("loss.csv")
+    losses_df.to_csv(f"loss{counter}.csv")
