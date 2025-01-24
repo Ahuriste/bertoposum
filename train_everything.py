@@ -62,7 +62,7 @@ def evaluate_accuracy(model, dataloader, num_labels=9):
             tmp_eval_loss = out.loss
 
         # Convert logits to predictions (binarize)
-        predicted_labels = (logits > 0).int().cpu().numpy()  
+        predicted_labels = (logits > 0).int().cpu().numpy()
         correct_labels = label_ids.cpu().numpy()
         all_predicted_labels.append(predicted_labels)
         all_correct_labels.append(correct_labels)
@@ -165,11 +165,10 @@ def evaluate_accuracy(model, dataloader, num=4, num_labels=9):
         tp += ((predicted & (label_ids != 0)).sum(dim=0))
         p += label_ids.sum(dim=0)
         pp += predicted.sum(dim=0)
-        """
         tp = sum([logits[i][j]>0 and label_ids[i][j]==1 for i in range(len(logits) )for j in range(num_labels)])
         recall += (tp/label_ids.sum()).item()
         if (logits>0).sum() != 0:
-            precision += tp/(logits>0).sum().item()"""
+            precision += tp/(logits>0).sum().item()
         #predicted_labels += list(outputs)
         #correct_labels += list(label_ids)
 
