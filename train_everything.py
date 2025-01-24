@@ -20,6 +20,7 @@ from torch.optim import AdamW
 from sentence_similarity import compute_cosine_similarity
 import pandas as pd
 
+from sklearn.metrics import f1_score, precision_score, recall_score
 
 GRADIENT_ACCUMULATION_STEPS = 1
 
@@ -43,6 +44,55 @@ def classify(sentences, temperature=1):
     return logits, torch.sigmoid(logits / temperature).detach()
 
 
+def evaluate_accuracy(model, dataloader, num_labels=9):
+    model.eval()
+
+    eval_loss = 0
+    nb_eval_steps = 0
+    all_predicted_labels, all_correct_labels = [], []
+
+    for step, batch in enumerate(tqdm(dataloader, desc="Evaluation iteration")):
+        batch = tuple(t.to(device) for t in batch)
+        input_ids, input_mask, label_ids = batch
+
+        with torch.no_grad():
+            out = model(input_ids, attention_mask=input_mask, labels=label_ids)
+
+            logits = out.logits  # Shape: (B, L)
+            tmp_eval_loss = out.loss
+
+        # Convert logits to predictions (binarize)
+        predicted_labels = (logits > 0).int().cpu().numpy()  
+        correct_labels = label_ids.cpu().numpy()
+        all_predicted_labels.append(predicted_labels)
+        all_correct_labels.append(correct_labels)
+        eval_loss += tmp_eval_loss.mean().item()
+        nb_eval_steps += 1
+    eval_loss = eval_loss / nb_eval_steps
+    all_predicted_labels = np.vstack(all_predicted_labels)
+    all_correct_labels = np.vstack(all_correct_labels)
+
+    # Compute metrics using sklearn
+    macro_f1 = f1_score(all_correct_labels, all_predicted_labels, average="macro", zero_division=0)
+    micro_f1 = f1_score(all_correct_labels, all_predicted_labels, average="micro", zero_division=0)
+    weighted_f1 = f1_score(all_correct_labels, all_predicted_labels, average="weighted", zero_division=0)
+
+    macro_precision = precision_score(all_correct_labels, all_predicted_labels, average="macro", zero_division=0)
+    macro_recall = recall_score(all_correct_labels, all_predicted_labels, average="macro", zero_division=0)
+
+    # Return metrics
+    return {
+        "eval_loss": eval_loss,
+        "macro_f1": macro_f1,
+        "micro_f1": micro_f1,
+        "weighted_f1": weighted_f1,
+        "macro_precision": macro_precision,
+        "macro_recall": macro_recall,
+    }
+
+
+
+"""
 def evaluate_accuracy_(model, dataloader, num=4):
     model.eval()
 
@@ -141,6 +191,7 @@ def evaluate_accuracy(model, dataloader, num=4, num_labels=9):
             f1.append(((2 * precision[i] * recall[i]) /
                        (precision[i] + recall[i])).cpu().item())
     return eval_loss, sum(f1) / num_labels
+    """
 
 
 def collate_fn(batch):
@@ -273,7 +324,7 @@ for counter in range(20):
                     optimizer.zero_grad()
                     #scheduler.step()
 
-            dev_loss, f1 = evaluate_accuracy(model, val_dataloader)
+            f1 = evaluate_accuracy(model, val_dataloader)["weighted_f1"]
             """print("Loss history:", loss_history)
                 print("Dev loss:", dev_loss)
                 print("Dev f1:", f1)
