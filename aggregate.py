@@ -30,7 +30,7 @@ for metric in metrics:
                 outl[i] = "\\textbf{"+outl[mm]+"}"
         gout = gout + outl
         print(" & ".join(gout),end="")
-        print ("\\\\")
+        print ("\\\\ \\midrule")
     print()
     print()
 
