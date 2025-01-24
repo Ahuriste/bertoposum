@@ -12,10 +12,13 @@ for metric in metrics:
     metric_models[metric] = pd.read_csv(f"{metric}.csv",index_col=0)
     metric_baselines[metric] = pd.read_csv(f"baselines_{metric}.csv",index_col=0)
 coeff = ceil(2 * metric_models["rouge1"].loc["bluetooth","P"])
-for domain in metric_models ["rouge1"].index:
-    print(domain.replace("_","\\_"), end=" & ")
-    gout = []
-    for metric in metrics:
+
+for metric in metrics:
+    print(metric)
+    print()
+    for domain in metric_models ["rouge1"].index:
+        gout = []
+        print(domain.replace("_","\\_"), end=" & ")
         m = (metric_models[metric].loc[domain].values.tolist())
         b = (metric_baselines[metric].loc[domain].values.tolist())
         m = [m_/coeff for m_ in m]
@@ -26,5 +29,8 @@ for domain in metric_models ["rouge1"].index:
             if o == outl[mm]:
                 outl[i] = "\\textbf{"+outl[mm]+"}"
         gout = gout + outl
-    print(" & ".join(gout),end="")
-    print ("\\\\")
+        print(" & ".join(gout),end="")
+        print ("\\\\")
+    print()
+    print()
+
