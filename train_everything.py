@@ -334,6 +334,7 @@ for counter in range(20):
                 output_model_file = os.path.join(OUTPUT_DIR, MODEL_FILE_NAME)
                 torch.save(model_to_save.state_dict(), output_model_file)
                 print(_)
+                print(f1)
             else:
                 no_improvement += 1
 
