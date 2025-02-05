@@ -362,6 +362,7 @@ for counter in range(20):
             for pipe_index, coeff in enumerate(coeffs):
                 for sentences, reviews in oposum:
                     pol = get_polarity_batched(sentences).cpu()
+                    pol = pol/pol.mean()
                     aspects = classify(sentences)
                     spikedness = (aspects[1].cpu().max(dim=1)[0] -
                                 aspects[1].cpu()[:, general_aspect_label])
